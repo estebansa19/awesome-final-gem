@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+# executable file, to execute: ruby -Ilib ./bin/awesome_final_gem
+require 'awesome_final_gem'
+
+puts Awesome.explode
